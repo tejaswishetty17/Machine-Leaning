@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pydotplus
+skompiler
+missingno
+plotly
+xgboost
+lightgbm
+catboost
+skompiler
